@@ -19,7 +19,7 @@
   "homepage": "https://github.com/matheustanaka/solid-api-mongo#readme",
   "devDependencies": {
     "@types/express": "^4.17.17",
-    "@types/node": "^18.16.3",
+    "@types/node": "^20.3.0",
     "@typescript-eslint/eslint-plugin": "^5.59.11",
     "@typescript-eslint/parser": "^5.59.11",
     "dotenv": "^16.1.4",
